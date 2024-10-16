@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipe4food/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/recipe4food/static/js/main.d7f2e6a8.chunk.js",
+    "main.js.map": "/recipe4food/static/js/main.d7f2e6a8.chunk.js.map",
+    "runtime-main.js": "/recipe4food/static/js/runtime-main.50b5d1b9.js",
+    "runtime-main.js.map": "/recipe4food/static/js/runtime-main.50b5d1b9.js.map",
+    "static/js/2.dc298318.chunk.js": "/recipe4food/static/js/2.dc298318.chunk.js",
+    "static/js/2.dc298318.chunk.js.map": "/recipe4food/static/js/2.dc298318.chunk.js.map",
+    "static/js/3.cf93a425.chunk.js": "/recipe4food/static/js/3.cf93a425.chunk.js",
+    "static/js/3.cf93a425.chunk.js.map": "/recipe4food/static/js/3.cf93a425.chunk.js.map",
+    "index.html": "/recipe4food/index.html",
+    "precache-manifest.f36a56423dd9d1b7be794eeb0eb1537d.js": "/recipe4food/precache-manifest.f36a56423dd9d1b7be794eeb0eb1537d.js",
+    "service-worker.js": "/recipe4food/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/recipe4food/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.dc298318.chunk.js.LICENSE.txt": "/recipe4food/static/js/2.dc298318.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/recipe4food/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b5d1b9.js",
+    "static/js/2.dc298318.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.d7f2e6a8.chunk.js"
+  ]
+}
